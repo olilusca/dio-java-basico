@@ -10,12 +10,15 @@ public class ContaTerminal {
         
         System.out.println("Insira o nome da conta: ");
         String nomeConta = input.next();
+        System.out.println("");
         
         System.out.println("Insira o número da conta: ");
         int numeroConta = input.nextInt();
+        System.out.println("");
         
         System.out.println("Conta criada com sucesso!");
-        System.out.println();
+        System.out.println("");
+        
         System.out.println("Informações da conta:");
         System.out.println("Nome: " + nomeConta);
         System.out.println("Número: " + numeroConta);
