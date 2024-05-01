@@ -22,5 +22,7 @@ public class ContaTerminal {
         System.out.println("Informações da conta:");
         System.out.println("Nome: " + nomeConta);
         System.out.println("Número: " + numeroConta);
+        
+        input.close();
     }
 }
