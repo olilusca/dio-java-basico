@@ -1,0 +1,7 @@
+Linha 24:
+Collections.sort(numeroAscendente)
+ ^----------^     ^---^        ^------------^
+   classe   método       lista
+
+- Método "sort" (pertencente a classe "Collections"), permite, por meio da interface "Comparable<T>" implementada no objeto que compõe a lista, a ordenação natural dos objeto (por hierarquia de valor).
+- Ordenação esta feita com base no resultado da comparação feita pela "Integer.compare()"
