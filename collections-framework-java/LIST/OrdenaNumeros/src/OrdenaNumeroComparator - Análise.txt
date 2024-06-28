@@ -1,0 +1,8 @@
+Linha 3:
+- Implementação da interface "Comparator", que compara objetos do tipo "Numero"
+
+Linha 7
+- O método "compare" recebe dois objetos do tipo "Numero" como parâmetro, que serão submetidos a uma comparação entre eles.
+
+Linha 10:
+- O método "compare" chamado da Wrapper "Integer" permite realizar a comparação utilizando valores específicos do objeto.
